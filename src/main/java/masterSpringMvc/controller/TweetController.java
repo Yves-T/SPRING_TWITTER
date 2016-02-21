@@ -1,4 +1,4 @@
-package masterSpringMvc;
+package masterSpringMvc.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.social.twitter.api.SearchResults;
